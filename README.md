@@ -7,7 +7,13 @@ If you are wondering why i'm bringing back to life such project is because it ca
 The main reason of this project is to remember everyone that privacy is a basic human right everyone should have.
 
 REQUIREMENTS:
-
--A Raspberry pi (preferably a pi 4/5 any GB version, maybe a 3)
--A good psu unit or the original raspberry one
 -
+A Raspberry pi (preferably a pi 4/5 any GB version, maybe a 3)
+A micro-sd
+A good psu unit or the original raspberry one
+An ethernet cable 
+
+accessories:
+
+Stronger wifi adapter
+cooling unit/fans
