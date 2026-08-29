@@ -1,6 +1,4 @@
-# onionpi
-automated-installer
-OnionPi v1.0.0-beta
+# OnionPi Installer v1.0.0-beta
 OnionPi is as hardware a raspberry pi and as software an access point separeted wifi that your devices can connect to stop companies and third party trackers from stealing your data.
 This is the modern version of it as you can see the installer does everything for you, you just need to answer simple questions to properly install OnionPI.
 This modern version does not only have newer daemons and services, it also includes Pi-Hole as your DNS, that's what blocks trackers.
