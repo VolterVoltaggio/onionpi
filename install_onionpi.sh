@@ -2,7 +2,7 @@
 
 set -e
 
-echo "=== OnionPi Installer ==="
+echo "OnionPi Installer"
 echo ""
 echo "[*] Updating system..."
 sudo apt update && sudo apt upgrade
